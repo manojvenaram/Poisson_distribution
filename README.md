@@ -73,7 +73,7 @@ else:
 
 
 # Output : 
-![](pqm2.png)
+![](image.png)
 
 
 # Results
